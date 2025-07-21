@@ -28,9 +28,3 @@ This project monitors your sitting posture using sensors and machine learning. I
 ## Report
 The project report is attached herewith.
 
-# Prototype Image -> (Images\Smart_Desk.jpg)
-
-# Demo video -> (Media/posture_detection.ipynb - smart chair - Visual Studio Code 2025-06-07 22-25-55.mp4)
-             -> (Media/Smart_Desk_with_Ergonomic_Control_and_Posture_monitoring.mp4)
-
-
